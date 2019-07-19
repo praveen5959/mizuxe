@@ -1,1 +1,2 @@
-# mizuxe
+# Mizuxe
+A Bootstrap template.
